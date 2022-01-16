@@ -14,7 +14,7 @@ Today, there exists great interest in these systems due to their important role 
 
 
 
-**Data Description:
+## **Data Description:**
 
 datetime - hourly date + timestamp
 
@@ -53,9 +53,9 @@ count - number of total rentals
 
 
 
-**Goal of our project:
+## **Goal of our project:**
 
 The training set is comprised of the first 19 days of each month, while the test set is the 20th to the end of the month. We have to predict the total count of bikes rented during each hour covered by the test set, using only information available prior to the rental period.
 
 
-**Random Forest** performed optimally when compared the scores of all the models, with the least RMSE (~0.39) & best R2 (~0.91).
+## **Random Forest** performed optimally when compared the scores of all the models, with the least RMSE (~0.39) & best R2 (~0.91).
